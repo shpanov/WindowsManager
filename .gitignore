@@ -1,0 +1,6 @@
+.idea/
+.venv/
+build/
+dist/
+main.spec
+window_positions.json
